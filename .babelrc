@@ -1,0 +1,11 @@
+{
+  "presets": [
+    "env"
+  ],
+  "plugins": [
+    [
+      "babel-plugin-root-import",
+      "babel-plugin-add-module-exports"
+    ]
+  ]
+}
