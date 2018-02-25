@@ -5,6 +5,7 @@
   "plugins": [
     [
       "babel-plugin-root-import",
+      "transform-runtime",
       "babel-plugin-add-module-exports"
     ]
   ]

@@ -244,8 +244,8 @@
         ],
         "radix": 2,
         "semi": [
-            2,
-            "always"
+            0,
+            "never"
         ],
         "semi-spacing": 0,
         "sort-vars": 0,

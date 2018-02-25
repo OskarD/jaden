@@ -1,3 +1,6 @@
-import SomeFeature from './SomeFeature';
+'use strict'
 
-export {SomeFeature};
+import simplify from './simplify'
+import normalize from './normalize'
+
+export {simplify, normalize}
